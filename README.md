@@ -62,7 +62,7 @@ The course is widely used as an **introductory university-level programming cour
 - Edition: **2026**
 - Language: English
 - Assessment: Exercises submitted and evaluated via **TMC**
-- Status: In progress #/ Completed
+- Status: In progress
 
 ---
 
