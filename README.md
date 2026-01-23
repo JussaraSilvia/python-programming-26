@@ -41,3 +41,39 @@ The course is widely used as an **introductory university-level programming cour
 
 ## 🗂 Repository Structure
 
+
+> Folder organization follows the official course structure.
+
+---
+
+## 🛠 Tools & Technologies
+
+- Python 3
+- VS Code / Local Python environment
+- Automated testing via **TMC (Test My Code)**
+- Git & GitHub
+
+---
+
+## 🎓 Course Information
+
+- Institution: **University of Helsinki**
+- Platform: **mooc.fi**
+- Edition: **2026**
+- Language: English
+- Assessment: Exercises submitted and evaluated via **TMC**
+- Status: In progress #/ Completed
+
+---
+
+## 📌 Notes
+
+All exercises in this repository were completed and submitted through the official **TMC system**.  
+This repository is intended for **learning, documentation, and portfolio purposes**.
+
+---
+
+## ✍️ Author
+
+**Jussara Vieira**  
+GitHub: https://github.com/JussaraSilvia
